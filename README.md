@@ -1,13 +1,13 @@
 Prentice Family Foundation Scholarship Program Survey Analysis
 Table of Contents
-Introduction
-Project Overview
-Data Sources
-Data Analysis Tools
-Analysis Highlights
-Sentiment Analysis
-Conclusion
-Contact Information
+Introduction <br>
+Project Overview <br>
+Data Sources <br>
+Data Analysis Tools <br>
+Analysis Highlights <br>
+Sentiment Analysis <br>
+Conclusion <br>
+
 Introduction
 This README document provides an overview of the survey analysis conducted for the Prentice Family Foundation Scholarship Program aimed at the development of the Western New York Region. The analysis delves into the efficacy of the program, with a particular focus on diversity and its impact.
 
